@@ -1,0 +1,15 @@
+{
+  "name": "com.setik.forcecameraratio",
+  "version": "1.0.0",
+  "displayName": "Force Camera Ratio",
+  "description": "This is an utility package to force camera ratio in Unity game. This package is written by Tom Elliott and repackage to UPM format by me.",
+  "unity": "2019.4",
+  "unityRelease": "9f1",
+  "keywords": [],
+  "author": {
+    "name": "setik",
+    "email": "thanhnguyenkim12@gmail.com",
+    "url": "https://killertee.wordpress.com/about/"
+  },
+  "type": "tool"
+}
